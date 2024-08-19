@@ -1,0 +1,3 @@
+F:/MalwareDev/windows_processes_basic/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+F:/MalwareDev/windows_processes_basic/out/build/x64-Debug/CMakeFiles/windows_processes_basic.dir
+F:/MalwareDev/windows_processes_basic/out/build/x64-Debug/CMakeFiles/edit_cache.dir
